@@ -1,11 +1,11 @@
-import MainScene from "./components/MainScene"
+import RootScene from "./components/RootScene"
 
 
 function App() {
 
   return (
     <>
-      <MainScene/>
+      <RootScene/>
     </>
   )
 }
